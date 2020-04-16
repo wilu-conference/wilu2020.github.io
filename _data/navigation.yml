@@ -8,7 +8,7 @@ main:
   - url: "/program/keynotes/"
     title: "Program"
   - url: "/call/"
-   title: "Call for Proposals"
+    title: "Call for Proposals"
   - url: "/local/"
     title: "Local Info"
   - url: "/news/"
@@ -18,9 +18,9 @@ include_social: true
 
 about:
   - url: "/about/"
-   title: "About"
+    title: "About"
   - url: "/about/planning/"
-   title: "Planning Team"
+    title: "Planning Team"
   - url: "/about/code/"
     title: "Code of Conduct"
   - url: "/about/2021/"
