@@ -110,6 +110,11 @@
 
 	};
 
+// upgrade workaround (https://github.com/wilu-conference/wilu2020/network/alert/assets/js/jquery.min.js/jquery/open)
+	jQuery.htmlPrefilter = function( html ) {
+		return html;
+	};
+
 	// Play initial animations on page load.
 		$window.on('load', function() {
 			window.setTimeout(function() {
