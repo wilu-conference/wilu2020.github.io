@@ -50,7 +50,7 @@ Depending on the circumstances, the WILU Planning Team may be obliged to involve
 
 
 ## Contact Information
-* Incidents may be reported by email, by conference messaging.
+* Incidents may be reported by email or by conference messaging.
 * Email: <{{ site.email }}>
 * Conference messaging: Will be announced at the beginning of the conference.
 * To report anonymously, please text the phone number above.
